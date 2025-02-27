@@ -1,4 +1,4 @@
-import React, { useState } from "react"; // tela de login
+import React, { useState } from "react"; // tela de login feita por Gabriela
 
 const WelcomeScreen = () => {
   const [formData, setFormData] = useState({
